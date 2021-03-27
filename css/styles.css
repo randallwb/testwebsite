@@ -1,20 +1,30 @@
+/****************************************TAG SELECTORS****************************************/
 body {
-    background-color: #e6e2dd;
-  }
+  background-color: #e6e2dd;
 
-  h1 {
-    color: #d48166;
-  }
+  font-family: "Trirong", serif;
+}
 
-  h3 {
-    color: #d48166;
-  }
+h1 {
+  color: #d48166;
+}
 
-  hr {
-    border-color: lightgrey;
-    border-style: none;
-    border-width: 14px;
-    border-top-style: dotted;
-    width: 4%;
-    height: 0px;
-  }
+h3 {
+  color: #d48166;
+}
+
+hr {
+  border-color: lightgrey;
+  border-style: none;
+  border-width: 14px;
+  border-top-style: dotted;
+  height: 0px;
+  width: 4%;
+}
+/****************************************CLASS SELECTORS****************************************/
+
+.selfie {
+    border-radius: 100%;
+}
+
+/****************************************ID SELECTORS****************************************/
